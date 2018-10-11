@@ -13,4 +13,3 @@ jwt.sign(payload, clave, options)
 
 CLIENTE ---> /login ----> API (Genera token)
         <---- token -----   
-
